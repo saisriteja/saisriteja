@@ -25,7 +25,7 @@ experience:
   - title: Project Engineer
     company: HTIC IIT-Madras
     company_url: ''
-    company_logo: org-htic
+    company_logo: htic
     location: Chennai
     date_start: '2021-02-01'
     date_end: ''
