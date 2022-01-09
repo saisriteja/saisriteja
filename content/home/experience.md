@@ -25,7 +25,7 @@ experience:
   - title: Project Engineer
     company: HTIC IIT-Madras
     company_url: ''
-    # company_logo: org-gc
+    company_logo: org-HTIC
     location: Chennai, TamilNadu
     date_start: '2-2-2021'
     date_end: ''
@@ -36,9 +36,9 @@ experience:
   - title: Research Assistant
     company: SASTRA University 
     company_url: ''
-    # company_logo: org-x
+    company_logo: org-SASTRA
     location: Tnajavuru, TamilNadu
-    date_start: '13-011-2020'
+    date_start: '13-11-2020'
     date_end: '26-2-2021'
     description: Sign Langauge Video generation.
 
