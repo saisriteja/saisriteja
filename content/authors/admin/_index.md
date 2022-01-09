@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: bachelors in Electronics and Comminication Engineering
+  - course: Bachelors in Electronics and Comminication Engineering
     institution: SASTRA University
     year: 2021
 
