@@ -64,8 +64,8 @@ email: ""
 highlight_name: true
 ---
 
-My name is SaiSriTeja, I have done my B.Tech(2021 Batch) at SASTRA University. Despite being doing my undergrad in Electronics and Communication engineering, I have completed, courses in Deep Learning, Machine Learning, Robotics by hands-on practice approach, that has provided me with a firm understanding of rising market strategies and technologies.
+Hey, This is SaiSriTeja, I have done my B.Tech(2021 Batch) at SASTRA University. Despite being doing my undergrad in Electronics and Communication engineering, I have completed, courses in Deep Learning, Machine Learning, Robotics by hands-on practice approach, that has provided me with a firm understanding of rising market strategies and technologies.
 My interests include the fields of Medical Technologies, Machine learning, Robotics and Neuroscience.
-I am currently working as a robotics research intern at Healthcare Technology Innovation Center, IIT-Madras Research Park in Spine Surgical Robotics team.
+I am currently working as a project engineer at Healthcare Technology Innovation Center, IIT-Madras Research Park in Spine Surgical Robotics team.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
