@@ -40,7 +40,7 @@ abstract: Cervical cancer is one of the curable cancers when it is diagnosed in 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
